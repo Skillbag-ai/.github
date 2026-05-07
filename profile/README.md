@@ -14,6 +14,7 @@ auditable, reusable, and portable across providers.
 - Core standard: https://github.com/Skillbag-ai/skillbag
 - Utility skills: https://github.com/Skillbag-ai/skillbag-utils
 - Document skills: https://github.com/Skillbag-ai/skillbag-docs
+- Resource skills: https://github.com/Skillbag-ai/skillbag-resources
 - Example workspace: https://github.com/Skillbag-ai/skillbag-example
 
 ## Repositories
@@ -23,6 +24,7 @@ auditable, reusable, and portable across providers.
 | `skillbag` | Core standard and canonical `SKILLBAG.md` source. |
 | `skillbag-utils` | Reusable utility skills for maintaining SkillBag workspaces. |
 | `skillbag-docs` | Reusable document-processing skills for PDFs and office document workflows. |
+| `skillbag-resources` | Reusable skills for local knowledge bases, resource ingestion, sync, indexing, and query. |
 | `skillbag-example` | Minimal example showing how a repository bootstraps SkillBag. |
 
 ## What SkillBag Standardizes
