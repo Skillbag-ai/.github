@@ -16,6 +16,7 @@ auditable, reusable, and portable across providers.
 - Document skills: https://github.com/Skillbag-ai/skillbag-docs
 - Resource skills: https://github.com/Skillbag-ai/skillbag-resources
 - Media skills: https://github.com/Skillbag-ai/skillbag-media
+- Workflow skills: https://github.com/Skillbag-ai/skillbag-workflows
 - Example workspace: https://github.com/Skillbag-ai/skillbag-example
 
 ## Repositories
@@ -27,6 +28,7 @@ auditable, reusable, and portable across providers.
 | `skillbag-docs` | Reusable document-processing skills for PDFs and office document workflows. |
 | `skillbag-resources` | Reusable skills for local knowledge bases, resource ingestion, sync, indexing, and query. |
 | `skillbag-media` | Reusable skills for local audio/video transcription, timelines, transcoding, and call summaries. |
+| `skillbag-workflows` | Reusable local workflow skills for logs, handoffs, status notes, decision records, and review packets. |
 | `skillbag-example` | Minimal example showing how a repository bootstraps SkillBag. |
 
 ## What SkillBag Standardizes
@@ -72,7 +74,8 @@ Useful contributions include:
 - implementation feedback from agents and developer tools
 - precise issue reports about ambiguous standard behavior
 - pull requests that improve normative wording
-- utility skills that solve common workspace problems
+- companion skills that solve common workspace, workflow, document, media, or
+  resource problems
 - validator and conformance-suite work
 - public adoption statements
 
