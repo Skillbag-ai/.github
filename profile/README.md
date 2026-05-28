@@ -28,7 +28,7 @@ auditable, reusable, and portable across providers.
 | `skillbag-docs` | Reusable document-processing skills for PDFs and office document workflows. |
 | `skillbag-resources` | Reusable skills for local knowledge bases, resource ingestion, sync, indexing, and query. |
 | `skillbag-media` | Reusable skills for local audio/video transcription, timelines, transcoding, and call summaries. |
-| `skillbag-workflows` | Reusable local workflow skills for logs, handoffs, status notes, decision records, and review packets. |
+| `skillbag-workflows` | Reusable local workflow skills for logs, cron-style agent jobs, handoffs, status notes, decision records, and review packets. |
 | `skillbag-example` | Minimal example showing how a repository bootstraps SkillBag. |
 
 ## What SkillBag Standardizes
@@ -74,8 +74,8 @@ Useful contributions include:
 - implementation feedback from agents and developer tools
 - precise issue reports about ambiguous standard behavior
 - pull requests that improve normative wording
-- companion skills that solve common workspace, workflow, document, media, or
-  resource problems
+- companion skills that solve common workspace, workflow, scheduled-agent,
+  document, media, or resource problems
 - validator and conformance-suite work
 - public adoption statements
 
